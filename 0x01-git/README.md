@@ -1,1 +1,1 @@
-bash and echo
+Updated this readme file.
